@@ -2,6 +2,6 @@ fitz==0.0.1.dev2
 matplotlib==3.7.2
 openai==1.58.1
 pandas==1.5.3
-Pillow==11.0.0
+Pillow==7.1.0
 plotly==5.6.0
 streamlit==1.39.0
