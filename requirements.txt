@@ -1,4 +1,4 @@
-fitz==0.0.1.dev2
+PyMuPDF==1.24.9
 matplotlib==3.7.2
 openai==1.58.1
 pandas==1.5.3
